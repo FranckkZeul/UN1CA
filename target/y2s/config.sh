@@ -36,3 +36,4 @@ TARGET_HAS_WIRELESS_CHARGING="true"
 # Kernel source (ExtremeKernel pentru Exynos990)
 TARGET_KERNEL_SOURCE="https://github.com/ExtremeXT/android_kernel_samsung_exynos990"
 TARGET_KERNEL_DEFCONFIG="exynos990-y2s_defconfig"
+# y2s support
