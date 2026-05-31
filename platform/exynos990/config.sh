@@ -6,7 +6,7 @@
 
 PLATFORM_CODENAME="exynos990"
 
-# Tip configuratie sistem (ESSI = Exynos Samsung System Image)
+# Tip configuratie sistem
 PLATFORM_CONFIG_TYPE="essi"
 
 # Arhitectura
