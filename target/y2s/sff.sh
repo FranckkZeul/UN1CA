@@ -4,7 +4,7 @@
 #
 
 # Model number exact
-"SFF_MODEL="SM-G986B""
+SFF_MODEL=SM-G986B
 
 # Regiune pentru download (DBT = Germania, cel mai complet)
 SFF_REGION="DBT"
